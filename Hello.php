@@ -3,6 +3,7 @@
         <title>Hello php, new text</title>
     </header>
     <body> 
+        <h3> HELLO WORLD </h3>
         <h1>
             <?php
  print "<h2>PHP is Fun!</h2>";
